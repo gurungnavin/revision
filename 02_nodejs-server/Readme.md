@@ -1,4 +1,5 @@
 ## 自己学習：サーバー作成（Express, dotenv, nodemon, Node.js）
+![server js-with-package](https://github.com/user-attachments/assets/25f90133-8d2e-45b4-911a-c34ee297284f)
 
 ---
 
