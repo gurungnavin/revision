@@ -1,4 +1,5 @@
 ## 自己学習：サーバー作成（フレームワークやライブラリを使用せずに）
+![simple-server-nodejs](https://github.com/user-attachments/assets/7843e9c3-5440-454c-9773-cb122cd60f2a)
 
 ---
 
